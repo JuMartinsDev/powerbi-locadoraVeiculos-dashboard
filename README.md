@@ -151,20 +151,118 @@ O aumento significativo em 2019 representa um alerta importante, pois pode indic
 
 # 🧠 Principais Insights
 
-- forte crescimento do faturamento em **2019**
-- dependência de poucos vendedores
-- aumento relevante da **taxa de cancelamento**
-- necessidade de melhoria na **qualidade dos dados**
+A análise dos dados permitiu identificar alguns padrões relevantes no desempenho de vendas ao longo dos três anos analisados.
+
+### Crescimento expressivo em 2019
+O ano de **2019 apresentou um crescimento significativo no faturamento**, atingindo mais de **470% da meta anual**. Esse resultado pode indicar:
+- aumento da demanda pelos serviços da locadora
+- melhoria na performance da equipe comercial
+- campanhas comerciais ou estratégias de vendas mais eficazes
+Esse crescimento também pode indicar que as **metas estavam subdimensionadas**, sugerindo a necessidade de uma revisão estratégica no planejamento de metas futuras.
 
 ---
 
-# 🚀 Possíveis Melhorias
+### Queda de desempenho em 2018
+Em **2018**, o faturamento ficou **abaixo da meta anual**, atingindo aproximadamente **94,96% do objetivo estabelecido**.
 
-- análise detalhada das causas de cancelamento
-- treinamento da equipe de vendas
-- padronização do registro das formas de pagamento
-- definição de metas mais estratégicas
-- expansão da análise para novos indicadores de negócio
+Isso pode indicar:
+- redução na demanda
+- menor produtividade da equipe de vendas
+- fatores externos que impactaram o volume de vendas
+Esse comportamento reforça a importância de acompanhar os indicadores de desempenho **de forma contínua ao longo do ano**, permitindo ajustes estratégicos mais rápidos.
+
+---
+
+### Concentração de vendas em poucos vendedores
+Os dados indicam que uma **parcela significativa do faturamento está concentrada em poucos vendedores**, especialmente:
+- USV
+- 8080
+- UGB
+- JLP
+- VN
+Essa concentração pode representar um risco operacional, pois a empresa passa a depender excessivamente de alguns profissionais para atingir seus resultados.
+
+Isso sugere oportunidades como:
+- programas de capacitação para outros vendedores
+- redistribuição de leads ou oportunidades
+- acompanhamento individual de desempenho.
+
+---
+
+### Crescimento da taxa de cancelamento
+A taxa de cancelamento apresentou um aumento considerável ao longo dos anos:
+- **2017:** 0,52%
+- **2018:** 3,01%
+- **2019:** 13,67%
+
+Esse aumento pode indicar problemas como:
+- desalinhamento entre expectativa do cliente e serviço oferecido
+- falhas no processo de vendas
+- problemas operacionais ou logísticos
+Esse indicador merece atenção, pois **cancelamentos impactam diretamente o faturamento e a satisfação do cliente**.
+
+---
+
+### Qualidade dos dados
+A presença de registros com **forma de pagamento não informada** indica uma oportunidade de melhoria no processo de coleta e registro de dados.
+Dados incompletos podem prejudicar análises futuras e limitar a capacidade da empresa de gerar insights estratégicos.
+A padronização no preenchimento das informações pode melhorar significativamente a qualidade das análises.
+
+---
+
+
+# 🚀 Roadmap de Melhorias
+
+Com base nos insights identificados na análise, algumas melhorias podem ser implementadas para aprofundar o projeto e gerar análises ainda mais estratégicas.
+
+### 1️⃣ Análise detalhada de cancelamentos
+Investigar os motivos de cancelamento das vendas para identificar padrões como:
+- tipo de cliente
+- vendedor responsável
+- forma de pagamento
+- período da venda
+Isso permitiria desenvolver estratégias para **reduzir perdas de receita**.
+
+---
+
+### 2️⃣ Criação de novos indicadores (KPIs)
+
+Expandir o dashboard com novos indicadores, como:
+- ticket médio por venda
+- faturamento médio por vendedor
+- taxa de conversão de vendas
+- vendas por período (sazonalidade)
+Esses indicadores podem trazer uma visão mais completa do desempenho do negócio.
+
+---
+
+### 3️⃣ Análise temporal mais aprofundada
+
+Adicionar análises como:
+- evolução mensal ou trimestral de vendas
+- comparação entre períodos
+- identificação de sazonalidade no comportamento de vendas.
+Isso ajudaria a empresa a **planejar melhor campanhas e estratégias comerciais**.
+
+---
+
+### 4️⃣ Segmentação de clientes
+
+Caso os dados estejam disponíveis, seria possível incluir análises como:
+- vendas por perfil de cliente
+- frequência de locação
+- valor médio por cliente.
+Isso permitiria identificar **clientes mais valiosos e oportunidades de fidelização**.
+
+---
+
+### 5️⃣ Automatização do pipeline de dados
+
+Uma evolução futura do projeto seria integrar os dados a um pipeline automatizado utilizando ferramentas como:
+- Power Query
+- Python
+- banco de dados SQL
+Isso permitiria atualizar o dashboard automaticamente e tornar a análise mais escalável.
 
 ---
 
@@ -180,7 +278,7 @@ O aumento significativo em 2019 representa um alerta importante, pois pode indic
 # 👩‍💻 Autora
 
 Julia Martins  
-Estudante de Sistemas de Informação – FIAP  
+Analista de dados
 
 Interesses:
 - Data Analytics
