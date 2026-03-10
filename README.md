@@ -1,8 +1,20 @@
-# 📊 Análise Comparativa de Vendas e Metas (2017–2019)
+# 📊 Análise Comparativa de Vendas e Metas
 
 Este projeto apresenta uma análise de desempenho de vendas de uma **locadora de veículos**, utilizando **Power BI** para explorar dados de faturamento, metas e indicadores estratégicos ao longo de três anos consecutivos (2017, 2018 e 2019).
 
 O objetivo foi identificar **tendências de crescimento, desempenho da equipe de vendas, distribuição das formas de pagamento e evolução das metas**, além de gerar insights estratégicos para tomada de decisão.
+
+Dashboard: https://app.powerbi.com/links/L8y_l-ubPw?ctid=11dbbfe2-89b8-4549-be10-cec364e59551&pbi_source=linkShare&bookmarkGuid=034bdfb0-02a7-47c4-bd81-aa1b93b4f6ae
+
+---
+## Capa
+<img width="1433" height="806" alt="image" src="https://github.com/user-attachments/assets/d5fd08ed-b3fd-4a36-900f-9250de593d12" />
+
+## Dados Consolidados - Home
+<img width="1752" height="943" alt="image" src="https://github.com/user-attachments/assets/6cf4e216-e6ee-461b-a3b0-7446c50f3aec" />
+
+## Resumo Vendas
+<img width="1384" height="761" alt="image" src="https://github.com/user-attachments/assets/5225dfe8-1312-44c4-a277-3167f1c26f45" />
 
 ---
 
