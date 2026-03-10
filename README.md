@@ -6,7 +6,6 @@ O objetivo foi identificar **tendências de crescimento, desempenho da equipe de
 
 Dashboard: https://app.powerbi.com/links/L8y_l-ubPw?ctid=11dbbfe2-89b8-4549-be10-cec364e59551&pbi_source=linkShare&bookmarkGuid=034bdfb0-02a7-47c4-bd81-aa1b93b4f6ae
 
----
 ## Capa
 <img width="1433" height="806" alt="image" src="https://github.com/user-attachments/assets/d5fd08ed-b3fd-4a36-900f-9250de593d12" />
 
@@ -15,6 +14,9 @@ Dashboard: https://app.powerbi.com/links/L8y_l-ubPw?ctid=11dbbfe2-89b8-4549-be10
 
 ## Resumo Vendas
 <img width="1384" height="761" alt="image" src="https://github.com/user-attachments/assets/5225dfe8-1312-44c4-a277-3167f1c26f45" />
+
+## Outros
+<img width="1849" height="803" alt="image" src="https://github.com/user-attachments/assets/aee3e56d-18a7-446b-a9d0-4f1d3ffa115b" />
 
 ---
 
